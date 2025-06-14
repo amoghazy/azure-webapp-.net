@@ -1,0 +1,7 @@
+/home/amoghazy/data/DevOps/AZ-204/Udemy - AZ-204 Course for Developing Solutions for Microsoft Azure 2024-10/Test-code/release1/MyWebAppForAzure
+/home/amoghazy/data/DevOps/AZ-204/Udemy - AZ-204 Course for Developing Solutions for Microsoft Azure 2024-10/Test-code/release1/appsettings.Development.json
+/home/amoghazy/data/DevOps/AZ-204/Udemy - AZ-204 Course for Developing Solutions for Microsoft Azure 2024-10/Test-code/release1/appsettings.json
+/home/amoghazy/data/DevOps/AZ-204/Udemy - AZ-204 Course for Developing Solutions for Microsoft Azure 2024-10/Test-code/release1/MyWebAppForAzure.dll
+/home/amoghazy/data/DevOps/AZ-204/Udemy - AZ-204 Course for Developing Solutions for Microsoft Azure 2024-10/Test-code/release1/MyWebAppForAzure.deps.json
+/home/amoghazy/data/DevOps/AZ-204/Udemy - AZ-204 Course for Developing Solutions for Microsoft Azure 2024-10/Test-code/release1/MyWebAppForAzure.runtimeconfig.json
+/home/amoghazy/data/DevOps/AZ-204/Udemy - AZ-204 Course for Developing Solutions for Microsoft Azure 2024-10/Test-code/release1/MyWebAppForAzure.pdb

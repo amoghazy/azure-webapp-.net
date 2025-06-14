@@ -1,0 +1,69 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": []
+  },
+  "packageFolders": {
+    "/home/amoghazy/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/amoghazy/data/DevOps/AZ-204/Udemy - AZ-204 Course for Developing Solutions for Microsoft Azure 2024-10/Test-code/MyWebAppForAzure/MyWebAppForAzure.csproj",
+      "projectName": "MyWebAppForAzure",
+      "projectPath": "/home/amoghazy/data/DevOps/AZ-204/Udemy - AZ-204 Course for Developing Solutions for Microsoft Azure 2024-10/Test-code/MyWebAppForAzure/MyWebAppForAzure.csproj",
+      "packagesPath": "/home/amoghazy/.nuget/packages/",
+      "outputPath": "/home/amoghazy/data/DevOps/AZ-204/Udemy - AZ-204 Course for Developing Solutions for Microsoft Azure 2024-10/Test-code/MyWebAppForAzure/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/amoghazy/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.117/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
